@@ -1,0 +1,7 @@
+{
+  "name": "Violin Star Tracker",
+  "description": "A gamified violin practice tracker with AI audio verification and rewards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
